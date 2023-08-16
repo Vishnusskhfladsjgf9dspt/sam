@@ -40,3 +40,6 @@ https://www.youtube.com/watch?v=q256X6-u9Q8
 
 # Angular Tutorial - 9 - Event Binding
 https://www.youtube.com/watch?v=ZfIc1_oj7uM
+
+# Angular Tutorial - 10 - Template Reference Variables
+https://www.youtube.com/watch?v=Oo0-r_YhoJs

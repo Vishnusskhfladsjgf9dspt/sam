@@ -37,3 +37,6 @@ https://www.youtube.com/watch?v=Y6OP-lPJxgs
 
 # Angular Tutorial - 8 - Style Binding
 https://www.youtube.com/watch?v=q256X6-u9Q8
+
+# Angular Tutorial - 9 - Event Binding
+https://www.youtube.com/watch?v=ZfIc1_oj7uM

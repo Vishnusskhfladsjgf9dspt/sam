@@ -6,13 +6,13 @@ import { Component, OnInit } from '@angular/core';
     <h2>
       welcome {{name}}
     </h2>
-    <h2>{{2+2}}</h2>
+    <input type="text" value="Vishwas">
    `,
    styles: []
 })
 export class TestComponent implements OnInit {
 
-  public name = "Vishwas";
+  public name = "codevolution";
   constructor() { }
 
   ngOnInit() {

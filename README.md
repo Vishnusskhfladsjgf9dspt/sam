@@ -31,3 +31,6 @@ https://www.youtube.com/watch?v=2a6OfacW_-I&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTk
 
 # Angular Tutorial - 6 - Property Binding
 https://www.youtube.com/watch?v=N8FBmB2jme8&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ&index=6
+
+# Angular Tutorial - 7 - Class Binding
+https://www.youtube.com/watch?v=Y6OP-lPJxgs

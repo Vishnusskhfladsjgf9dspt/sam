@@ -34,3 +34,6 @@ https://www.youtube.com/watch?v=N8FBmB2jme8&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTk
 
 # Angular Tutorial - 7 - Class Binding
 https://www.youtube.com/watch?v=Y6OP-lPJxgs
+
+# Angular Tutorial - 8 - Style Binding
+https://www.youtube.com/watch?v=q256X6-u9Q8

@@ -43,3 +43,6 @@ https://www.youtube.com/watch?v=ZfIc1_oj7uM
 
 # Angular Tutorial - 10 - Template Reference Variables
 https://www.youtube.com/watch?v=Oo0-r_YhoJs
+
+# Angular Tutorial - 11 - Two Way Binding
+https://www.youtube.com/watch?v=DOWwWsbG1Sw&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ&index=11
